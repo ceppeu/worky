@@ -45,7 +45,7 @@ Para ver el sitio en vivo referirse al siguiente link:
 [https://worky-atm.netlify.app/](https://worky-atm.netlify.app/)
 
 ### Mejoras
-Debido a que un demo y tenía que ser de rápido desarrollo se omitieron las siguiente funcionalidades:
+Debido a que es un demo y tenía que ser de rápido desarrollo se omitieron las siguiente funcionalidades:
 - Uso de variables de entorno _.env_:
 Al tener únicamente una url y sin información sensible se decidió no utilizar variables de entorno para la fácil instalación del proyecto en otras computadoras
 - Pruebas unitarias | e2e:
