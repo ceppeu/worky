@@ -1,5 +1,5 @@
 <template>
-  <div class="card mb-4">
+  <div class="card mb-4 mx-3">
     <div class="card-content">
       <p class="mb-2"><small>Posted by: <b>{{postData.data.author}}</b></small></p>
       <p class="mb-2" v-if="postData.data.distinguished">

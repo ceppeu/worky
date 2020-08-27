@@ -40,9 +40,13 @@ yarn serve
 npm run serve
 ```
 
+### Sitio en vivo
+Para ver el sitio en vivo referirse al siguiente link:
+[https://worky-atm.netlify.app/](https://worky-atm.netlify.app/)
+
 ### Mejoras
 Debido a que un demo y tenía que ser de rápido desarrollo se omitieron las siguiente funcionalidades:
 - Uso de variables de entorno _.env_:
 Al tener únicamente una url y sin información sensible se decidió no utilizar variables de entorno para la fácil instalación del proyecto en otras computadoras
-- Pruebas unitarias | e2e
+- Pruebas unitarias | e2e:
 Al ser un desarrollo sencillo, con pocos componentes y tiempo limitado, no se implementaron las pruebas

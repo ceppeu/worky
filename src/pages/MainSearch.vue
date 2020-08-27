@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <hero />
-    <div class="field mb-6">
+    <div class="field mb-6 pl-3">
       <label class="label">Filtrar por personaje personaje</label>
       <div class="control">
         <div class="select">
